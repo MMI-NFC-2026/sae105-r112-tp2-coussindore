@@ -200,5 +200,16 @@ Ajouter à votre code des commentaires reprenant les explications données dans 
 
 Recherchez sur le site https://developer.mozilla.org/fr/ les pages de documentation de ce qui a été utilisé dans ce TP :
 
+# HTML
+
 - `popover` : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Global_attributes/popover
-- ...
+- `autofocus` : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Global_attributes/autofocus
+
+# CSS
+
+- `transition` : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/transition 
+- `transform` : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/transform
+- `opacity` : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/opacity 
+- `@media` : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/At-rules/@media
+- `@starting-style` : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/At-rules/@starting-style
+
