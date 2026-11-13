@@ -41,3 +41,8 @@ html:has(.menu:popover-open) { /* quand le menu est ouvert, on ne peut pas scrol
     transition: none;
   }
 }
+
+.media {
+  width: 100%;
+  height: auto;
+}
